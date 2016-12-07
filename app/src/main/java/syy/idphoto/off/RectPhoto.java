@@ -1,5 +1,3 @@
-/*作者yanzi1225627，欢迎加QQ1927067685进行android开发交流*/
-
 package syy.idphoto.off;
 
 import android.app.Activity;
