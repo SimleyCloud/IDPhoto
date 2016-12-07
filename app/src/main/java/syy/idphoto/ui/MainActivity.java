@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 //        initCamera();
         mDraw.setVisibility(View.VISIBLE);
         mDraw.drawLine();
+
+
     }
 
     @OnClick(R.id.btnPhoto)
